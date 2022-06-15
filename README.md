@@ -1,6 +1,6 @@
 # r_iot
 
-A new Flutter project.
+Pengenalan IoT dan RabbitMQ.
 
 ## Getting Started
 
